@@ -1,4 +1,3 @@
-
 # Top 250 Indian Movies (IMDb)
 
 ## What is the report about?
