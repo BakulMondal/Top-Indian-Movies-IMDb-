@@ -1,9 +1,11 @@
 # Top 250 Indian Movies (IMDb)
 
 ## What is the report about?
-I have created an interactive dashboard that shows the details of the top 250 Indian movies of all time. The content of the dashboard is as follows;
+I have created an interactive dashboard that shows the details of the top 250 Indian movies of all time.
 
--Extracted the data and transformed it using Power Query.
+## Steps 
+
+-Extracted the data from https://www.kaggle.com/datasets/mrmars1010/imdb-top250-india and transformed it using Power Query in Power BI.
 
 -Created a 2-page interactive dashboard which shows the details of the movie and summary statistics on the second page.
 
