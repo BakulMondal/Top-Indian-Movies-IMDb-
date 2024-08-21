@@ -1,15 +1,15 @@
 # Top 250 Indian Movies (IMDb)
 
 ## What is the report about?
-I have created an interactive dashboard which shows the details of the top 250 Indian Movies of all time. The content of the dashboard are as follows;
+I have created an interactive dashboard that shows the details of the top 250 Indian movies of all time. The content of the dashboard is as follows;
 
--Extracted the data and transformed the data using Power Query.
+-Extracted the data and transformed it using Power Query.
 
--Created 2 paged interactive dashboard which shows the details of the movie and summary statistics in the second pages.
+-Created a 2-page interactive dashboard which shows the details of the movie and summary statistics on the second page.
 
--The first page shows the details of the movie such as genre, language, awards and nominations, industry, directors, box office collection, user reviews, watch hour and descriptions.
+-The first page shows the details of the movie such as genre, language, awards and nominations, industry, directors, box office collection, user reviews, watch hours and descriptions.
 
--The second page shows the number of movies with details of the industry which are streamed on online platforms in ribbon chart and another chart which shows the details of the box collection of the different film industry.
+-The second page shows the number of movies with details of the industry which are streamed on online platforms in a ribbon chart and another chart shows the details of the box collection of the different film industries.
 
 
 ## Contents of the report
